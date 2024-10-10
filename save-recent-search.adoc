@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: interoperability-matrix-tool-overview.html 
-keywords: imt, interoperability, matrix, tool, 
+keywords: imt, interoperability, matrix, tool 
 summary: È possibile salvare le ricerche recenti per conservare i criteri per le ricerche successive. 
 ---
 = Salvataggio di una ricerca recente

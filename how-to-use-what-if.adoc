@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: how-to-use-what-if.html 
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
-summary: *Cosa succede se* consente di esplorare tutte le possibili configurazioni supportate. 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network 
+summary: Cosa succede se consente di esplorare tutte le possibili configurazioni supportate. 
 ---
 = Come usare cosa fare se
 :allow-uri-read: 
