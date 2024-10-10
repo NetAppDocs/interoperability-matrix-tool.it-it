@@ -1,0 +1,76 @@
+---
+sidebar: sidebar 
+permalink: index.html 
+keywords: interoperability matrix tool, imt, ONTAP SAN Host Simplified, 
+summary: 'Lo strumento matrice di interoperabilità NetApp (IMT) è un"applicazione basata su web. IMT consente di cercare configurazioni di prodotti e componenti NetApp che soddisfino gli standard e i requisiti specificati da NetApp.' 
+---
+= Panoramica dello strumento matrice di interoperabilità
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Lo strumento matrice di interoperabilità NetApp (IMT) è un'applicazione basata su web. IMT consente di cercare configurazioni di prodotti e componenti NetApp che soddisfino gli standard e i requisiti specificati da NetApp. IMT gestisce un archivio di configurazioni e fornisce un'interfaccia intuitiva per un facile accesso alle informazioni di configurazione supportate.
+
+È possibile accedere a IMT dal sito di supporto NetApp utilizzando uno dei seguenti browser standard:
+
+* Per Windows:
++
+** Cromo N e N-1
+** Mozilla Firefox N e N-1
++
+
+NOTE: N sta per l'ultima versione.
+
+** Internet Explorer 11 e Edge
+
+
+* Per Mac:
++
+** Cromo N e N-1
+** Mozilla Firefox N e N-1
+** Safari 8 e versioni successive
+
+
++
+
+NOTE: L'Interoperability Matrix Tool accetta link URL con criteri per semplificare alcuni casi di utilizzo. Quando si fa clic su un collegamento da un altro strumento per aprire IMT, è possibile accedere a una pagina del parco giochi, anziché alla pagina iniziale, con una soluzione e alcuni componenti preselezionati.
+
+
+
+
+
+== Inizia subito con Interoperability Matrix Tool
+
+Lo strumento matrice di interoperabilità (IMT) è un'applicazione basata su Web utilizzata per cercare compatibilità per i prodotti utilizzando soluzioni, configurazioni, componenti e categorie differenti.
+
+Per semplificare la navigazione e la chiarezza, questo strumento è diviso in tre pagine: *Inserisci criteri*, *regola criteri di ricerca* e *risultati*. È necessario immettere i criteri di ricerca nella prima pagina. In base ai criteri di ricerca, è possibile visualizzare la compatibilità del prodotto nella pagina *regola criteri di ricerca*. Questo argomento fornisce una rapida panoramica su come utilizzare IMT.
+
+È possibile visualizzare i risultati nella pagina *risultati*. Utilizzando questo strumento, è possibile cercare i componenti, effettuare selezioni, creare criteri e visualizzare le compatibilità del prodotto.
+
+È possibile eseguire le seguenti attività:
+
+[cols="25,65"]
+|===
+| Utilizzo della pagina in corso... | È possibile eseguire queste attività... 
+
+
+| Immettere i criteri | Immettere un criterio di ricerca e cercare una soluzione, un componente, una configurazione e una categoria. Se si conosce il nome della soluzione, è possibile cercare una soluzione utilizzando la funzione *host SAN ONTAP semplificato* o *Ricerca soluzione*. Se si conosce il nome di un componente, è possibile cercare un componente utilizzando la funzione *elenco e trova* o *Ricerca avanzata*. 
+
+
+| Restringi i criteri di ricerca | Trova una risposta affermativa o negativa alla soluzione, al componente, alla configurazione e alla categoria compatibili per il tuo prodotto. È possibile modificare i criteri iniziali immessi nella prima pagina utilizzando *Modifica criteri* o *prova con un metodo diverso*. Applicare i filtri ai componenti di ciascuna categoria per trovare la configurazione più adatta per il prodotto in uso. Rimuovere i filtri applicati utilizzando *Cancella tutto* o l'icona *Annulla*. 
+
+
+| Risultati | Dopo aver fatto clic su *continua*, sull'icona *>* o sullo splitter nella seconda pagina, visualizzare la pagina *risultati*. È possibile visualizzare i componenti, le note e i dettagli della cronologia di una configurazione, ordinare i risultati della ricerca, visualizzare i criteri di ricerca selezionati, modificare i criteri di ricerca, filtrare i risultati della ricerca ed esportare i risultati della ricerca in un foglio di Microsoft Excel. 
+|===
+
+
+== Utilizza la home page dell'Interoperability Matrix Tool
+
+La home page dello strumento matrice di interoperabilità (IMT) consente di utilizzare *ONTAP SAN host semplificato*, *Ricerca, elenco e ricerca della soluzione* e *Ricerca avanzata*.
+
+È possibile impostare una qualsiasi di queste opzioni come ricerca predefinita utilizzando la stella *Imposta come predefinita*. Quando si fa clic su una delle opzioni, viene visualizzata la pagina corrispondente per esaminare le configurazioni compatibili.
+
+
+NOTE: Per trovare ricerche salvate in precedenza, è possibile utilizzare il menu *Ricerca salvata*. Se non è possibile trovare la configurazione desiderata, fare clic sul menu *Impossibile trovare la configurazione?* e segnalare il problema.

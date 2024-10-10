@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: defining-and-entering-the-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: È possibile definire i criteri di ricerca utilizzando una combinazione di componenti, soluzioni o categorie. 
+---
+= Definire e immettere i criteri di ricerca
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+È possibile definire i criteri di ricerca utilizzando una combinazione di componenti, soluzioni o categorie. Interoperability Matrix Tool consente di immettere un criterio di ricerca aggiungendo componenti, soluzioni o categorie. È possibile immettere un criterio di ricerca utilizzando la casella di testo di ricerca, esplora soluzioni o esplora componenti.

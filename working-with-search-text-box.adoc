@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: working-with-search-text-box.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified 
+summary: È possibile cercare componenti, soluzioni, categorie e configurazioni utilizzando la casella di testo di ricerca. A seconda del testo immesso, la casella di testo di ricerca visualizza le possibili corrispondenze che è possibile includere nei criteri di ricerca. 
+---
+= Utilizzare la casella di testo di ricerca
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+È possibile cercare componenti, soluzioni, categorie e configurazioni utilizzando la casella di testo di ricerca. A seconda del testo immesso, la casella di testo di ricerca visualizza le possibili corrispondenze che è possibile includere nei criteri di ricerca.

@@ -1,0 +1,21 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-storage-solutions-categories-or-categories.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: Puoi iscriverti a una o più soluzioni di storage, categorie o componenti di tua scelta. 
+---
+= Iscriviti per ricevere soluzioni, categorie o componenti storage
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Puoi iscriverti a una o più soluzioni di storage, categorie o componenti di tua scelta.
+
+La scheda *sottoscrizione* consente di sottoscrivere le seguenti sottoscrizioni:
+
+* Iscrizione alle soluzioni storage
+* Iscrizione alle categorie
+* Iscrizione ai componenti
+

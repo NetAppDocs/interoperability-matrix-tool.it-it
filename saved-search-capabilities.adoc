@@ -1,0 +1,18 @@
+---
+sidebar: sidebar 
+permalink: saved-search-capabilities.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, search, criteria, solution , explorer 
+summary: È possibile caricare soluzioni o configurazioni diverse utilizzando il menu *Ricerca salvata*, che consente di accedere ai risultati di ricerca salvati in precedenza, ai risultati di ricerca recenti e alle configurazioni salvate. 
+---
+= Funzioni di ricerca salvate
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+È possibile caricare soluzioni o configurazioni diverse utilizzando il menu *Ricerca salvata*, che consente di accedere ai risultati di ricerca salvati in precedenza, ai risultati di ricerca recenti e alle configurazioni salvate.
+
+La scheda *Criteri di ricerca* contiene le ricerche salvate. In questa scheda è possibile condividere ricerche o visualizzare ricerche condivise da altri utenti. La scheda *Configurazione* contiene le configurazioni salvate. In questa scheda è possibile condividere configurazioni o visualizzare configurazioni condivise da altri utenti.
+
+La scheda *Ricerca recente* contiene gli ultimi 30 gruppi di criteri di ricerca, dal più recente al meno recente. Elenca inoltre il *flusso di ricerca* che indica la pagina di origine, che può essere *elenco e trova, Esplora soluzioni o Ricerca avanzata*. I criteri vengono salvati automaticamente. Questa pagina elenca anche la *Data ultima modifica* di una ricerca salvata o recente. È possibile *caricare* una ricerca dall'elenco per visualizzare rispettivamente i criteri o le configurazioni.

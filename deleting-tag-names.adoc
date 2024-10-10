@@ -1,0 +1,31 @@
+---
+sidebar: sidebar 
+permalink: deleting-tag-names.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Le configurazioni salvate possono essere eliminate rimuovendo il nome del tag. 
+---
+= Eliminare i nomi dei tag
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+È possibile eliminare l'intero tag per le configurazioni salvate.
+
+
+
+== A proposito di questa attività
+
+Le configurazioni salvate possono essere eliminate rimuovendo il nome del tag. Quando si elimina il nome del tag, verranno eliminate anche tutte le configurazioni associate a tali tag.
+
+
+
+== Fasi
+
+. Fare clic su *Preferiti*.
+. Dalla finestra di dialogo *Criteri salvati*, fare clic sulla scheda *configurazioni*.
+. Fare clic sull'icona di eliminazione X nella colonna *azione*. Viene visualizzata la finestra a comparsa che chiede se si desidera o meno eliminare i tag salvati e le relative configurazioni.
+. Fare clic su *Sì* per eliminare i tag e le relative configurazioni.
+. Fare clic su *No* per conservare i tag e le relative configurazioni associate.
+

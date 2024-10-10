@@ -1,0 +1,40 @@
+---
+sidebar: sidebar 
+permalink: troubleshooting-interoperability-matrix-tool-issues.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 'Dovresti conoscere alcuni dei problemi più comuni legati all"Interoperability Matrix Tool.' 
+---
+= Risolvere i problemi di Interoperability Matrix Tool
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Dovresti conoscere alcuni dei problemi più comuni legati all'Interoperability Matrix Tool.
+
+[cols="2*"]
+|===
+| Dei clienti | Soluzione alternativa 
+
+
+| Errore di caricamento dello strumento matrice di interoperabilità | È necessario cancellare la cache del browser, aprire un nuovo browser e provare ad accedere a IMT. 
+
+
+| Blocco di Interoperability Matrix Tool | Potrebbe trattarsi di un problema di rete, puoi provare ad aggiornare il browser. 
+
+
+| PI non deferendo la soluzione desiderata | È necessario selezionare la soluzione appropriata dal *Catalogo soluzioni* o selezionare un componente specifico. 
+
+
+| Impossibile selezionare proprietà diverse in *Ridefinisci criteri di ricerca* per la configurazione HBA | È necessario deselezionare il componente HBA e selezionare una proprietà. 
+
+
+| La generazione di rapporti giornalieri visualizza un errore 404 | I job cron giornalieri vengono eseguiti a 22:00 ore PST e per una durata di 30 minuti, i report non saranno disponibili. 
+
+
+| Errore di autenticazione dell'accesso per il primo accesso a Interoperability Matrix Tool | È necessario sincronizzare le credenziali di accesso per Interoperability Matrix Tool. 
+
+
+| I componenti aggiunti di recente non vengono visualizzati | Attendere quattro ore; i componenti verranno aggiornati automaticamente. 
+|===

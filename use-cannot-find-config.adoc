@@ -1,0 +1,16 @@
+---
+sidebar: sidebar 
+permalink: use-cannot-find-config.html 
+keywords: interoperability matrix tool, imt, ONTAP SAN Host Simplified,cannot, find, configuration 
+summary: 'Lo strumento matrice di interoperabilità NetApp (IMT) è un"applicazione basata su web. IMT consente di cercare configurazioni di prodotti e componenti NetApp che soddisfino gli standard e i requisiti specificati da NetApp' 
+---
+= Utilizzo di Impossibile trovare la configurazione
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Se non si riesce a trovare la configurazione necessaria, è possibile segnalare il problema al team di supporto utilizzando la funzione *IMPOSSIBILE TROVARE la CONFIGURAZIONE?*.
+
+Aprire il menu *Impossibile trovare Config?* per segnalare un problema. Compilare e inviare il modulo per assistenza.

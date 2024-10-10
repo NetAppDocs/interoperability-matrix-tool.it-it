@@ -1,0 +1,39 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-components.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: Puoi iscriverti a uno o più componenti a tua scelta. 
+---
+= Iscriviti ai componenti
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Puoi iscriverti a uno o più componenti a tua scelta.
+
+
+
+== A proposito di questa attività
+
+Si riceverà una notifica e-mail quando vengono apportate modifiche al nome visualizzato del componente o dello stato del componente.
+
+
+
+== Fasi
+
+. Fare clic sul collegamento *abbonamento* dal menu di intestazione.
+. Nella finestra di sottoscrizione, selezionare la scheda *componente*.
+. Per abbonarsi al componente desiderato, selezionare la casella di controllo per l'opzione *Attribute Updated*.
+. Nel campo *frequenza*, selezionare *immediato* o *Digest*.
++
+
+NOTE: La selezione predefinita è *immediato*.
+
+. Fare clic su *Sottoscrivi* per ottenere le sottoscrizioni per i componenti sottoscritti.
++
+
+NOTE: È possibile fare clic su *Reimposta* per cancellare tutte le selezioni nella scheda *componente*.
+
+

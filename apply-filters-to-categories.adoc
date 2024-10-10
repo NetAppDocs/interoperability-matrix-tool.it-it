@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: apply-filters-to-categories.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Nella pagina Ridefinisci criteri di ricerca, è possibile applicare i filtri selezionando i componenti di diverse categorie. Applicando i filtri, è possibile aggiungere componenti ai criteri di ricerca e restringere i risultati della configurazione. 
+---
+= Applicare i filtri alle categorie
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Nella pagina *Ridefinisci criteri di ricerca*, è possibile applicare filtri selezionando i componenti di categorie diverse. Applicando i filtri, è possibile aggiungere componenti ai criteri di ricerca e restringere i risultati della configurazione.
+
+
+
+== Fasi
+
+. Selezionare i componenti dalle categorie desiderate nella pagina *Refine Search Criteria*, a seconda delle proprie esigenze. All'interno di ogni categoria, è possibile cercare componenti specifici e selezionare il componente desiderato.
+. *Opzionale*: Selezionare più componenti di categorie diverse per restringere i risultati della configurazione.
+
+
+A seconda della compatibilità dei componenti selezionati, alcuni componenti potrebbero non essere disponibili all'interno delle categorie.

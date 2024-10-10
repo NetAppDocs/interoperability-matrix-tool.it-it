@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: interoperability-matrix-tool-overview.html 
+keywords: imt, interoperability, matrix, tool, 
+summary: È possibile salvare le ricerche recenti per conservare i criteri per le ricerche successive. 
+---
+= Salvataggio di una ricerca recente
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Dalla pagina Benvenuti in IMT, è possibile salvare le ricerche recenti per conservare i criteri per le ricerche successive.
+
+.Fasi
+. Fare clic su Ricerca soluzione o Ricerca avanzata.
+. Selezionare i criteri di ricerca.
+. Selezionare passa ai risultati o fare clic su Avanti per perfezionare i criteri di ricerca, quindi passare alla pagina Visualizza configurazioni supportate (risultati).
+
+
+Una finestra di dialogo a comparsa informa che i criteri vengono salvati automaticamente.

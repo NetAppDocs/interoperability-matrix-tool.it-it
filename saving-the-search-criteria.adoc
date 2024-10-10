@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: saving-the-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Nella pagina Ridefinisci criteri di ricerca, è possibile scegliere di salvare o aggiornare i criteri di ricerca per recuperarli in un secondo momento. 
+---
+= Salvare i criteri di ricerca
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Nella pagina *Ridefinisci criteri di ricerca*, è possibile scegliere di salvare o aggiornare i criteri di ricerca per recuperarli in un secondo momento.
+
+
+
+== Prima di iniziare
+
+È necessario aver già aggiunto soluzioni e componenti nella prima pagina per salvare i criteri per riferimenti futuri.
+
+.Fasi
+. Fare clic su *Salva criteri* nella pagina *Ridefinisci criteri di ricerca*.
+. Immettere il *Nome criterio* e aggiungere informazioni nei campi *Descrizione*. Il *nome criteri* può essere alfanumerico ed è possibile aggiungere fino a 20 caratteri. Il campo *Descrizione* può contenere fino a 100 caratteri alfanumerici. L'Interoperability Matrix Tool non consente nomi duplicati per il salvataggio dei criteri. *Nome criteri* obbligatorio.
+. Fare clic su *Aggiorna criteri* per aggiungere filtri o criteri da includere nei criteri salvati.
+. Fare clic su *Save* (Salva). Il collegamento *Salva criteri* cambia in *Aggiorna criteri* dopo aver salvato i criteri. È possibile salvare un massimo di 10 criteri di ricerca.
+
+
+
+
+== Risultato
+
+Quando si fa clic su *Ricerca salvata*, viene visualizzata una finestra a comparsa *Criteri salvati*. La scheda *Ricerca recente* visualizza le ricerche più recenti.
+
+Ogni ricerca salvata di recente è identificata in modo univoco dalla relativa data e ora. È possibile fare clic sull'indicatore data e ora per andare alla pagina *Ridefinisci criteri di ricerca*.

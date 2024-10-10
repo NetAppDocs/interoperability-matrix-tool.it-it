@@ -1,0 +1,30 @@
+---
+sidebar: sidebar 
+permalink: working-with-preferences.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, list, find, component, explorer 
+summary: 'Per salvare le categorie preferite, è possibile utilizzare l"elenco delle preferenze e le preferenze trova categoria.' 
+---
+= Lavorare con le preferenze
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Il menu *Preferenze elenco e trova preferenze categoria* apre la pagina *elenco e trova preferenze categoria*, in cui è possibile salvare le categorie preferite all'inizio dell'elenco *elenco e trova Esplora componenti*.
+
+
+
+== A proposito di questa attività
+
+È possibile utilizzare la pagina *elenco e trova preferenze categoria* per selezionare le categorie preferite. Queste categorie vengono visualizzate nella parte superiore dell'elenco *List e Find Component Explorer* e vengono visualizzate in rosso.
+
+
+
+== Fasi
+
+. Fare clic su *elenco preferenze e trovare Preferenze categoria* nella home page. Viene visualizzata la pagina *Preferenze elenco e trova categoria*.
+. Selezionare le categorie che si desidera salvare come preferite. È possibile scorrere l'elenco o cercare le categorie nel campo *Cerca categorie*. È possibile selezionare tutte le categorie desiderate.
+. Fare clic su *Salva* per mantenere le preferenze. Se necessario, è possibile fare clic su *Reimposta* per cancellare l'elenco delle preferenze esistenti.
+. Per visualizzare le preferenze, fare clic su *Home*, quindi su *elenco e trova*. Le categorie preferite vengono visualizzate nella parte superiore di Esplora componenti*, con un contorno rosso.
+

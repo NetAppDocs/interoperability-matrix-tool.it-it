@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: editing-saved-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: È possibile modificare i criteri di ricerca salvati in precedenza. 
+---
+= Modificare i criteri salvati
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+È possibile modificare i criteri di ricerca salvati in precedenza. È possibile aggiungere nuovi componenti ai criteri salvati o rimuovere il componente dai criteri salvati esistenti.
+
+
+
+== Prima di iniziare
+
+È necessario caricare i criteri salvati per modificarli.
+
+
+
+== Fasi
+
+. Caricare i criteri salvati, fare clic sul collegamento Criteri salvati.
+. Fare clic sul collegamento *Ridefinisci criteri di ricerca*. È possibile aggiungere o rimuovere i criteri dai criteri salvati.
+

@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: finding-the-compatibility-using-the-refine-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 'Nello strumento matrice di interoperabilità (IMT), la pagina Criteri di ricerca rifinitura consente di esplorare le configurazioni compatibili per il prodotto in uso.' 
+---
+= Individuare la compatibilità utilizzando i criteri di ricerca di rifinitura
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Nello strumento matrice di interoperabilità (IMT), la pagina *regola criteri di ricerca* consente di esplorare le configurazioni compatibili per il prodotto in uso. È possibile cercare soluzioni, componenti, categorie o configurazioni compatibili per il prodotto in uso. Selezionando i componenti appropriati, è possibile restringere i risultati delle configurazioni in base alle proprie esigenze.
+
+
+
+== Avviso di compatibilità
+
+Se uno dei componenti della pagina *Refine Search Criteria* nell'app dell'utente finale IMT è compatibile l'uno con l'altro, viene visualizzato un messaggio di avviso sulla compatibilità. L'avviso di compatibilità, evidenziato in rosso e visualizzato nella parte superiore della pagina, è simile al seguente messaggio:
+
+`Please note: you must go to the Results page (next step) to confirm valid configurations.`
+
+Se viene visualizzato l'avviso di compatibilità, accedere alla pagina *Visualizza configurazioni supportate* facendo clic sul collegamento *Visualizza configurazioni supportate*.

@@ -1,0 +1,17 @@
+---
+sidebar: sidebar 
+permalink: using-refine-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified 
+summary: Restringi criteri di ricerca consente di esplorare le configurazioni compatibili per il prodotto in uso. 
+---
+= Utilizzare Ridefinisci criteri di ricerca
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+*Regola criteri di ricerca* consente di esplorare configurazioni compatibili per il prodotto in uso. Selezionando i componenti da diverse categorie, è possibile restringere le configurazioni che risultano alle configurazioni desiderate per il prodotto.
+
+
+NOTE: Le parole chiave *rack* e *Blade* vengono visualizzate solo con i componenti in *4.x*.

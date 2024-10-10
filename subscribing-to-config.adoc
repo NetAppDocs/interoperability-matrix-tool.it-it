@@ -1,0 +1,36 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-config.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: È possibile sottoscrivere le configurazioni con un nome qualsiasi per una soluzione o un componente specifico. 
+---
+= Iscriviti alle configurazioni
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+È possibile sottoscrivere le configurazioni con un nome qualsiasi per una soluzione o un componente specifico. Ciò consente di ricevere aggiornamenti tramite e-mail quando è presente un aggiornamento o una modifica nella riga sottoscritta. È possibile sottoscrivere un massimo di 20 configurazioni.
+
+
+
+== A proposito di questa attività
+
+È possibile ricevere le e-mail per le seguenti istanze:
+
+* Quando i componenti vengono aggiunti alla configurazione
+* Quando i componenti vengono eliminati dalla configurazione
+* Quando le note vengono aggiunte o eliminate dalla configurazione
+* Quando lo stato della configurazione viene modificato da supportato a uno qualsiasi degli stati terminali aggiuntivi (EOS, obsoleto e così via).
+
+
+
+
+== Fasi
+
+. Nella pagina *risultati*, fare clic su asterisco per salvare la configurazione. Dopo aver salvato la configurazione, la stella diventa gialla. È possibile salvare un massimo di 20 configurazioni.
+. Nella finestra di dialogo *Configurazione tag*, immettere il nome e la descrizione per aggiungere un segnalibro alla configurazione come riferimento.
+. Fare clic sulla casella di controllo *Sottoscrivi* a questa configurazione.
+. Fare clic su *Tag*.
+

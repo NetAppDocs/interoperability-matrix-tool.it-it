@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: working-with-saved-criteria-recent-searches-and-config.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: È possibile salvare e aggiornare i criteri di ricerca e le configurazioni. 
+---
+= Utilizzare i criteri salvati, le ricerche recenti e le configurazioni
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+È possibile salvare e aggiornare i criteri di ricerca e le configurazioni. È possibile caricare, modificare ed eliminare i criteri e le configurazioni salvate.

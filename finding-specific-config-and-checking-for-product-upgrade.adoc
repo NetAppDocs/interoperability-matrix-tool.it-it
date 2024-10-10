@@ -1,0 +1,18 @@
+---
+sidebar: sidebar 
+permalink: finding-specific-config-and-checking-for-product-upgrade.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, windows, server 
+summary: Determinare .. 
+---
+= Trova una configurazione specifica e controlla l'aggiornamento del prodotto o il supporto di downgrade
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Puoi utilizzare Interoperability Matrix Tool per visualizzare una configurazione specifica per aggiornare o downgrade di un componente nella configurazione del prodotto.
+
+Di seguito viene illustrato il flusso di lavoro:
+
+image::pg16_imt.png[flusso di lavoro per visualizzare una configurazione specifica da aggiornare o eseguire il downgrade]

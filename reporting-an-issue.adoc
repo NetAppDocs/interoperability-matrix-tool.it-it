@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: reporting-an-issue.html 
+keywords: lash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified 
+summary: Se si verifica un problema, è possibile segnalarlo al team di supporto e feedback. 
+---
+= Segnala un problema
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Se si verifica un problema, è possibile segnalarlo al team di supporto e feedback utilizzando la funzione *Segnala un problema*.

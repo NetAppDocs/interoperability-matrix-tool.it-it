@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: interoperability-matrix-tool-search-workflow.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow 
+summary: 'Prima di iniziare a utilizzare Interoperability Matrix Tool, è importante conoscere alcuni dei casi di utilizzo generali spiegati all"interno dei flussi di lavoro.' 
+---
+= Flusso di lavoro di ricerca di Interoperability Matrix Tool
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Prima di iniziare a utilizzare Interoperability Matrix Tool, è importante conoscere alcuni dei casi di utilizzo generali spiegati all'interno dei flussi di lavoro.

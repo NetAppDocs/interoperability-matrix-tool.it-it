@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: modify-the-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 'Dalla pagina Refine Search Criteria (Ridefinisci criteri di ricerca), è possibile scegliere di modificare i criteri di ricerca per aggiungere una soluzione, un componente o una categoria ai criteri.' 
+---
+= Modificare i criteri di ricerca
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Dalla pagina *Ridefinisci criteri di ricerca*, è possibile scegliere di modificare i criteri di ricerca per aggiungere una soluzione, un componente o una categoria ai criteri.
+
+
+
+== Fasi
+
+. Nella pagina *Ridefinisci criteri di ricerca*, fare clic su *Modifica criteri*.
+. Nella pagina dei criteri di ricerca, è possibile aggiungere una soluzione, un componente o una categoria utilizzando la casella di testo di ricerca.
+. Fare clic su *Avanti* per visualizzare le configurazioni compatibili nella pagina *regola criteri di ricerca*.
+

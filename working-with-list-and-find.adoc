@@ -1,0 +1,33 @@
+---
+sidebar: sidebar 
+permalink: working-with-list-and-find.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, list, find 
+summary: Determinare .. 
+---
+= Lavorare con elenco e trova
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Nell'area di lavoro *elenco e trova* componente è possibile visualizzare le configurazioni migliori possibili per i componenti.
+
+
+
+== A proposito di questa attività
+
+Utilizzare il pannello *Esplora componenti* a sinistra per visualizzare le configurazioni per i componenti selezionati. Il pannello a destra visualizza le soluzioni; ciascuna scheda rappresenta una soluzione di archiviazione e il numero di configurazioni che utilizzano i componenti selezionati. Se il pulsante di commutazione *Logic* verde nell'area di lavoro *List and Find Component* è impostato su O, è possibile cercare soluzioni con configurazioni contenenti singoli componenti. Se il pulsante di attivazione/disattivazione *Logic* verde è impostato su *E*, è possibile cercare soluzioni con configurazioni contenenti tutti i componenti selezionati. Se più componenti sono selezionati all'interno dello stesso tipo di componente, il pulsante è impostato su *O*.
+
+
+
+== Fasi
+
+. Fare clic su *elenco e trova* nella home page.
+. Cercare il nome di un componente in Esplora componenti* o espandere la selezione per aggiungere i componenti all'area di lavoro *elenco e trova componente*.
++
+
+NOTE: È possibile selezionare soluzioni specifiche attivate dopo aver aggiunto un componente all'area di lavoro *List e Find Component* prima di fare clic su *Next*. È inoltre possibile esportare un massimo di 3000 righe per una soluzione alla volta in un foglio di calcolo Excel o in un PDF.
+
+. Fare clic su *Avanti* per visualizzare il punto in cui i componenti vengono utilizzati nelle configurazioni di più soluzioni nella pagina *risultati*. Viene visualizzata la configurazione più compatibile per l'elenco dei componenti.
+

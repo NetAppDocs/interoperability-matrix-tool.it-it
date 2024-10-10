@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: export-config-results.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: È possibile esportare i risultati della configurazione dalla pagina *risultati* utilizzando la funzione Esporta. 
+---
+= Esportazione dei risultati di configurazione
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+È possibile esportare i risultati della configurazione dalla pagina *risultati* utilizzando la funzione *Esporta*. L'esportazione dei risultati di configurazione contiene dettagli sulla soluzione di archiviazione, criteri di ricerca, dettagli di configurazione e avvisi specifici o informazioni aggiuntive. È possibile esportare i risultati della configurazione in un foglio di calcolo Excel o in un PDF.
+
+
+
+== A proposito di questa attività
+
+Il formato del nome file del foglio Excel che include i risultati della configurazione è `IMT_solutionshortname_timestamp.xls`.
+
+
+
+== Fasi
+
+. Nella pagina *risultati*, dal menu a discesa *Esporta*, è possibile scegliere di esportare la soluzione corrente o la vista end-to-end della configurazione.
+. A seconda delle esigenze, fare clic su *soluzione corrente* o *da fine a fine vista*. È possibile esportare un massimo di 3000 righe. In precedenza, è possibile esportare fino a 1000 righe, ma questo limite è aumentato. Per ridurre i risultati, utilizzare un filtro. In alternativa, è possibile utilizzare la funzione *completa esportazione giornaliera* per ottenere i risultati completi.
+. È possibile salvare il foglio di calcolo Excel o il PDF sul computer locale.
+

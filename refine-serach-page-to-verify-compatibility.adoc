@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: refine-serach-page-to-verify-compatibility.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 'L"Interoperability Matrix Tool consente di esplorare le configurazioni compatibili per il prodotto in uso dalla pagina *regola criteri di ricerca*.' 
+---
+= La pagina Ridefinisci criteri di ricerca per verificare la compatibilità
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+L'Interoperability Matrix Tool consente di esplorare le configurazioni compatibili per il prodotto in uso dalla pagina *regola criteri di ricerca*. È possibile limitare i risultati di configurazione di questa pagina alle configurazioni desiderate per il prodotto in uso.
+
+È possibile accedere alla pagina *Ridefinisci criteri di ricerca* dalla pagina dei criteri di ricerca iniziali, solo se i criteri immessi hanno configurazioni supportate. La pagina *regola criteri di ricerca* è divisa in due riquadri:
+
+* *Criteri di ricerca*: Visualizza le soluzioni, i componenti e i filtri aggiunti ai criteri di ricerca. È possibile modificare i criteri di ricerca iniziali per visualizzare i risultati di configurazione richiesti. È possibile selezionare *Modifica criteri* per tornare alla pagina *Criteri di ricerca* e modificare i criteri di ricerca iniziali. È possibile selezionare la scheda *filtraggio dinamico* per visualizzare immediatamente la compatibilità tra i componenti. È possibile deselezionare la scheda *filtraggio dinamico* per aggiungere più componenti insieme e fare clic su *Aggiorna* conteggio. È possibile selezionare la scheda *prova un metodo diverso* per accedere alla home page.
+* *Ridefinisci criteri di ricerca*: Visualizza l'elenco dei componenti in diverse categorie. Le categorie elencate in questo riquadro dipendono dai criteri di ricerca e dalle configurazioni compatibili.
++
+** Se è stata inclusa una soluzione nei criteri di ricerca iniziali, è possibile selezionare i componenti di quella categoria specifica nella pagina migliora *Criteri di ricerca* e i componenti di altre categorie.
+** Se sono stati inclusi componenti specifici nei criteri di ricerca iniziali, non è possibile deselezionare i componenti inclusi nei criteri di ricerca iniziali nella pagina *regola criteri di ricerca*, ma è possibile selezionare componenti aggiuntivi da altre categorie.
+
+
+
+
+In ciascuna categoria, è possibile utilizzare l'icona del filtro per visualizzare la casella di testo di ricerca e cercare un componente specifico. Se si desidera reimpostare o deselezionare le selezioni dei componenti nel riquadro *Criteri di ricerca*, fare clic su *Cancella tutto*.
+
+A seconda dei componenti selezionati dalle diverse categorie, il numero di risultati della configurazione potrebbe variare. Più componenti selezioni hai, più lo strumento Interoperability Matrix Tool restringe i risultati della ricerca e ti consente di visualizzare la configurazione desiderata per il tuo prodotto.

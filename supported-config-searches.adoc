@@ -1,0 +1,61 @@
+---
+sidebar: sidebar 
+permalink: supported-config-searches.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 'Lo strumento matrice di interoperabilità (IMT) consente di visualizzare in modo semplice i risultati per le configurazioni supportate.' 
+---
+= Ricerche di configurazione supportate
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Lo strumento matrice di interoperabilità (IMT) consente di visualizzare in modo semplice i risultati per le configurazioni supportate. È possibile eseguire più attività, ad esempio modificare, filtrare o esportare i risultati e visualizzare o modificare i criteri di ricerca.
+
+Nella pagina *risultati*, IMT visualizza più configurazioni supportate in base ai criteri di ricerca immessi. Per visualizzare i dettagli completi della configurazione di una determinata configurazione, fare clic sul nome o sull'ID della configurazione (ad esempio, 20150202-204717518).
+
+[cols="~,~"]
+|===
+| Nome del campo | Descrizione 
+
+
+| Passare ai risultati | Consente di saltare la pagina *Refine Search Criteria* e di andare direttamente alla pagina *Results*. 
+
+
+| Nome o ID configurazione | Il nome o l'ID della configurazione è un identificatore univoco assegnato a una configurazione specifica. Fare clic sul nome della configurazione per visualizzare tutti i dettagli della configurazione. Lo stato delle configurazioni viene visualizzato insieme al nome della configurazione. 
+
+
+| Dettagli | Fornisce informazioni sui componenti e le categorie compatibili per una configurazione specifica. 
+
+
+| Avvisi | Fornisce informazioni importanti sulla configurazione, ad esempio note sulla versione, informazioni sulla distribuzione, consigli e così via. 
+
+
+| Info | Fornisce ulteriori informazioni sulla configurazione. 
+
+
+| Storia | Fornisce la cronologia del contenuto della configurazione. Il contenuto della configurazione viene evidenziato in verde quando vengono aggiunti i dettagli, in blu quando i dettagli vengono aggiornati, in rosso con il segno di spunta quando i dettagli vengono rimossi e in nero quando non vi sono modifiche nei dettagli. 
+
+
+| Crea vista end-to-end con | Consente di creare una vista end-to-end scegliendo una soluzione correlata compatibile con la configurazione selezionata. 
+
+
+| E se fosse così | Consente di aggiornare o eseguire il downgrade di un componente in una configurazione selezionata. 
+
+
+| Stampa | Consente di stampare i dettagli di configurazione. 
+
+
+| Policy e linee guida | Aiuta a comprendere meglio i criteri e le linee guida applicabili a una configurazione selezionata. Se sono state aggiunte nuove modifiche ai criteri e alle linee guida, le modifiche sono evidenziate in giallo e sono applicabili per 30 giorni. Se vengono rimossi criteri e linee guida, le modifiche vengono annullate. In caso di modifiche nel campo *politiche e linee guida*, verrà visualizzata un'icona "NUOVO" in rosso. 
+
+
+| Filtro | Consente di cercare le configurazioni che sono state modificate durante un determinato periodo fornendo un intervallo di date appropriato nei campi *ultima modifica tra* e *e*. 
+
+
+| Note | Fornisce le note associate alla configurazione. 
+
+
+| Confronto righe | Consente di confrontare due righe con la configurazione. 
+|===
+I risultati della ricerca vengono visualizzati con i dettagli di configurazione per ciascun risultato. Ogni riga del risultato della ricerca visualizza i dettagli di una configurazione che appartiene alla soluzione di archiviazione attualmente selezionata. Le righe di configurazione nello stato *fine supporto* vengono visualizzate in grigio e lo stato accanto al nome della configurazione viene indicato come *EOS* o *PVR*.

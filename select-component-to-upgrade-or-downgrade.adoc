@@ -1,0 +1,21 @@
+---
+sidebar: sidebar 
+permalink: select-component-to-upgrade-or-downgrade.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: È possibile utilizzare la funzione What If nella pagina *risultati* per aggiornare o eseguire il downgrade di un componente nella configurazione del prodotto. È possibile modificare i componenti ed esaminare la compatibilità. 
+---
+= Selezionare un componente da aggiornare o eseguire il downgrade
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+È possibile utilizzare la funzione *What If* nella pagina *risultati* per aggiornare o eseguire il downgrade di un componente nella configurazione del prodotto. È possibile modificare i componenti ed esaminare la compatibilità.
+
+.Fasi
+. Fare clic su *cosa succede* per visualizzare i componenti che è possibile aggiornare o eseguire il downgrade per modificare la configurazione selezionata.
+. Fare clic su una categoria per visualizzare i componenti disponibili per l'aggiornamento o il downgrade.
+. Nella finestra Opzioni disponibili, è possibile cercare una versione specifica del componente e selezionarla.
+. Se il componente selezionato è una configurazione valida e compatibile con la configurazione precedente, viene visualizzato il messaggio di compatibilità. È ora possibile esportare i risultati per visualizzare tutte le configurazioni supportate.
+

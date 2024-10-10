@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: how-to-use-what-if.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: *Cosa succede se* consente di esplorare tutte le possibili configurazioni supportate. 
+---
+= Come usare cosa fare se
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+*Cosa succede se* consente di esplorare tutte le possibili configurazioni supportate. È possibile utilizzare la funzione *What If* per aggiornare o eseguire il downgrade di un componente in una configurazione selezionata ed esplorare la compatibilità. Per visualizzare tutte le configurazioni supportate dopo l'aggiornamento o il downgrade di un componente, è possibile utilizzare l'opzione *Esporta* per esportare i dettagli di configurazione in un foglio di lavoro Excel o in un PDF.
+
+Dopo aver selezionato un componente specifico da aggiornare o eseguire il downgrade nella finestra *What If*, è possibile visualizzare se il componente selezionato è compatibile con altri componenti nella configurazione o se non esistono configurazioni corrispondenti. Se non esistono configurazioni corrispondenti, è necessario espandere i criteri iniziali per derivare più configurazioni.
+
+La finestra *What If* è divisa in due riquadri:
+
+* Il riquadro superiore indica se un componente selezionato corrisponde a qualsiasi configurazione valida.
+* Il riquadro inferiore visualizza le varie categorie e le rispettive versioni dei componenti.
+
+
+Se non è possibile trovare la configurazione desiderata, fare clic su *Feedback* per segnalare un problema.
+
+Per ulteriori informazioni, vedere link:reporting-an-issue.html["Segnala un problema"].

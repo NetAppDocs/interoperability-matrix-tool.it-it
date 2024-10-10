@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: deleting-saved-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: È possibile eliminare i criteri di ricerca salvati. 
+---
+= Elimina i criteri salvati
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+È possibile eliminare i criteri di ricerca salvati.
+
+
+
+== A proposito di questa attività
+
+Per eliminare i criteri salvati, è necessario disporre del nome dei criteri salvati.
+
+
+
+== Fasi
+
+. Fare clic sull'icona di eliminazione *X* nella colonna *azione*. Viene visualizzata la finestra a comparsa che chiede se si desidera eliminare i criteri salvati.
+. Fare clic su *Sì* per eliminare i criteri salvati.
+. Fare clic su *No* per mantenere i criteri salvati.
+

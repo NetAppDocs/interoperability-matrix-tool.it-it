@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: performing-common-searches.html 
+keywords: interoperability matrix tool, ONTAP SAN Host Simplified, Active IQ Advisor 
+summary: 'Utilizzare le schede nella home page dello strumento matrice di interoperabilità (IMT) per eseguire ricerche comuni, tra cui host SAN ONTAP semplificato, ricerca soluzione, elenco e ricerca e ricerca avanzata.' 
+---
+= Eseguire ricerche comuni
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Utilizzare le schede nella home page dello strumento matrice di interoperabilità (IMT) per eseguire ricerche comuni, tra cui *ONTAP SAN host semplificato*, *Ricerca soluzione*, *elenco e trova* e *Ricerca avanzata*.
+
+Quando si apre IMT, vengono visualizzati i tipi di ricerca più comuni nella home page:
+
+* *Host SAN ONTAP semplificato*
+* *Ricerca soluzione*
+* *Elenco e trova*
+* *Ricerca avanzata*
+
+
+È inoltre possibile guardare https://www.youtube.com/playlist?list=PLdXI3bZJEw7moxyCCpO4p4G-73NN6q4RH["video di formazione"] o aprire la https://www.netapp.com/services/support/active-iq/#:~:text=NetApp%C2%AE%20Active%20IQ%C2%AE,availability%2C%20security%2C%20and%20performance["Consulente Active IQ"] dalla home page.

@@ -1,0 +1,19 @@
+---
+sidebar: sidebar 
+permalink: working-with-results.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified 
+summary: 'l"unità organizzativa può visualizzare ed esportare i risultati per le configurazioni che soddisfano i requisiti del prodotto.' 
+---
+= Lavorare con i risultati
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+È possibile visualizzare ed esportare i risultati per le configurazioni che soddisfano i requisiti del prodotto.
+
+Dalla pagina *risultati*, è possibile creare una vista end-to-end scegliendo una soluzione correlata compatibile con la configurazione selezionata.
+
+
+NOTE: Se i risultati non sono visibili, deselezionare i filtri.

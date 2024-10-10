@@ -1,0 +1,48 @@
+---
+sidebar: sidebar 
+permalink: add-solutions-to-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: È possibile aggiungere soluzioni ai criteri di ricerca utilizzando la casella di testo Cerca o Ricerca soluzione. 
+---
+= Aggiungere soluzioni ai criteri di ricerca
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+È possibile aggiungere soluzioni ai criteri di ricerca utilizzando la casella di testo Cerca o la *Ricerca soluzione*.
+
+
+
+== A proposito di questa attività
+
+Se si conoscono le soluzioni specifiche da aggiungere ai criteri di ricerca, è possibile immettere i nomi delle soluzioni nella casella di testo di ricerca. È possibile utilizzare *Ricerca soluzione* se non si è certi che la soluzione venga aggiunta ai criteri di ricerca.
+
+Se si desidera cancellare le soluzioni incluse nei criteri di ricerca, è possibile fare clic su *Cancella tutto* nell'angolo in alto a destra.
+
+
+
+=== Fasi
+
+. Nella home page di Interoperability Matrix Tool, immettere il nome della soluzione nella casella di testo per visualizzare le corrispondenze possibili.
++
+.. Fare clic su *Aggiungi* per includere la soluzione nei criteri di ricerca.
+
+
+. Opzionale. È possibile includere una soluzione ai criteri di ricerca utilizzando *Ricerca soluzione*.
++
+.. Fare clic su *Ricerca soluzione*.
+.. Nel campo *Ricerca soluzione*, identificare la soluzione da aggiungere ai criteri di ricerca e fare clic su *Aggiungi*.
+.. Se necessario, è possibile attivare la casella di controllo *Includi PVR richiesto, EOS* e *configurazioni obsolete*. Questa casella di controllo include la richiesta di variazione del prodotto, il supporto alla fine della versione e gli elementi obsoleti nei risultati.
+
+
+
+
+È possibile utilizzare la casella di testo di ricerca all'interno della finestra *Ricerca soluzione* per cercare una soluzione specifica. Per rimuovere una soluzione aggiunta utilizzando *Ricerca soluzione*, fare clic su *Rimuovi* nel riquadro superiore.
+
+
+
+=== Risultato
+
+Quando si includono soluzioni ai criteri di ricerca, le soluzioni vengono visualizzate nel riquadro di destra in *Criteri di ricerca*.

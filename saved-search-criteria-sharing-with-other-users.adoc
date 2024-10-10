@@ -1,0 +1,89 @@
+---
+sidebar: sidebar 
+permalink: saved-search-criteria-sharing-with-other-users.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: È possibile condividere i criteri con gli altri utenti. 
+---
+= Condivisione dei criteri di ricerca salvati con altri utenti
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Dalla pagina *Refine Search Criteria*, è possibile condividere i criteri *Saved Search* con altri utenti.
+
+Di seguito sono riportati i tre diversi metodi per salvare e condividere i criteri di ricerca:
+
+* <<Condividere i criteri durante il salvataggio>>
+* <<Condividere i criteri dopo il salvataggio>>
+* <<Visualizzare i criteri condivisi>>
+
+
+
+
+== Condividere i criteri durante il salvataggio
+
+Nella pagina Refine Search Criteria (Ridefinisci criteri di ricerca), è possibile condividere i criteri di ricerca durante il salvataggio.
+
+
+
+=== Prima di iniziare
+
+È necessario aggiungere le soluzioni e i componenti nella prima pagina per condividere i criteri durante il salvataggio.
+
+
+
+=== Fasi
+
+. Selezionare la casella di controllo Condividi per condividere i criteri di ricerca salvati.
+. Immettere il nome utente nella casella di testo per la ricerca degli utenti e fare clic su Aggiungi utenti.
++
+
+NOTE: Se il nome utente non esiste, viene visualizzato un messaggio di convalida.
+
+. È possibile cercare mentre si utilizza l'opzione di ricerca utente e inviare per condividere i criteri.
+
+
+
+
+== Condividere i criteri dopo il salvataggio
+
+Dalla pagina Refine Search Criteria (Ridefinisci criteri di ricerca), è possibile condividere i criteri di ricerca dopo il salvataggio.
+
+
+
+=== Prima di iniziare
+
+È necessario aggiungere le soluzioni e i componenti di ricerca salvati nella prima pagina per condividere i criteri dopo il salvataggio.
+
+
+
+=== Fasi
+
+. Fare clic su Saved Search Option (opzione ricerca salvata) nella home page.
+. Fare clic su Condividi per condividere i criteri con altri utenti.
+. Immettere il nome utente nella casella di testo per cercare gli utenti e fare clic su Invia.
+
+
+
+
+== Visualizzare i criteri condivisi
+
+
+
+=== Prima di iniziare
+
+È necessario salvare le soluzioni e i componenti nella ricerca salvata.
+
+
+
+=== Fasi
+
+. È possibile visualizzare i criteri condivisi con altri utenti impostando l'opzione di ricerca salvata come predefinita.
+. Selezionare Nome utente dalla colonna Condividi per visualizzare i criteri condivisi.
+. Una notifica e-mail verrà inviata agli utenti condivisi per informare della condivisione.
+
+
+
+NOTE: L'aggiornamento ai criteri originali non avrà alcuna influenza sui criteri condivisi. Sono considerate entità separate.

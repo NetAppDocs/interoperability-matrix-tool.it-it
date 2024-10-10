@@ -1,0 +1,37 @@
+---
+sidebar: sidebar 
+permalink: loading-the-saved-config.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: È possibile caricare le configurazioni salvate in precedenza dalla home page. È possibile visualizzare il nome del tag, la descrizione e il nome della soluzione della configurazione salvata. 
+---
+= Caricare la configurazione salvata
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+È possibile caricare le configurazioni salvate in precedenza dalla home page. È possibile visualizzare il nome del tag, la descrizione e il nome della soluzione della configurazione salvata.
+
+
+
+== Prima di iniziare
+
+È possibile caricare la configurazione specifica cercando il nome specificato per quella particolare configurazione.
+
+
+
+== A proposito di questa attività
+
+Se la configurazione è già stata salvata, è possibile caricarla in un secondo momento.
+
+
+
+== Fasi
+
+. Nella pagina iniziale, fare clic sull'opzione *Saved Search* (Ricerca salvata) per caricare la configurazione salvata.
+. Nella scheda *Configurazione salvata*, fare clic su Configurazione.
+. Il nome della configurazione viene visualizzato con il mouse sulla configurazione salvata.
+. Fare clic su *Nome tag* e caricare la configurazione.
+. Fare clic sul collegamento *Visualizza dettagli* per accedere alla pagina dei risultati.
+

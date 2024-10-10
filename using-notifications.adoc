@@ -1,0 +1,17 @@
+---
+sidebar: sidebar 
+permalink: using-notifications.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: Il menu Notifiche visualizza le notifiche correnti. 
+---
+= Utilizzare Notifiche
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Il menu *Notifiche* visualizza le notifiche correnti.

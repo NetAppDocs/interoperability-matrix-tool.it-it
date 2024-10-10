@@ -1,0 +1,30 @@
+---
+sidebar: sidebar 
+permalink: using-subscription.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: Il collegamento Iscrizione consente di effettuare la sottoscrizione a soluzione di archiviazione, categoria o componente. Se si è sottoscritto un abbonamento a una soluzione di archiviazione, una categoria o un componente specifici, si riceverà un messaggio e-mail solo se vengono apportate modifiche alle soluzioni, alle categorie o ai componenti sottoscritti. 
+---
+= USA abbonamento
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Il collegamento *sottoscrizione* consente di effettuare la sottoscrizione a *soluzione di archiviazione, categoria o componente*. Se si è sottoscritto un abbonamento a una soluzione di archiviazione, una categoria o un componente specifici, si riceverà un messaggio e-mail solo se vengono apportate modifiche alle soluzioni, alle categorie o ai componenti sottoscritti.
+
+Riceverai e-mail per i seguenti abbonamenti:
+
+. *Soluzione di archiviazione*: Quando le modifiche vengono apportate nell'aggiornamento dello stato, le categorie associate o disassociate e le configurazioni aggiunte o eliminate.
+. *Categoria*: Quando i componenti vengono aggiunti o eliminati dalla categoria.
+. *Componente*: Quando le modifiche vengono apportate nel nome di visualizzazione del componente o dello stato del componente.
++
+
+NOTE: Riceverai un'e-mail in base al tipo di frequenza selezionato. I due tipi di frequenza sono i seguenti:
+
++
+** Immediato: Riceverai immediatamente un'e-mail quando verranno apportate modifiche alle soluzioni, alle categorie o ai componenti sottoscritti.
+** Digest: Riceverai un'e-mail accumulata ogni sette giorni che riflette tutte le modifiche apportate alle soluzioni, alle categorie o ai componenti sottoscritti.
+
+
+

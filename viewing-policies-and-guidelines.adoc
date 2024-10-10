@@ -1,0 +1,27 @@
+---
+sidebar: sidebar 
+permalink: viewing-policies-and-guidelines.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, host, os 
+summary: La pagina Policy and Guidelines descrive tutte le informazioni e le linee guida attuali relative alla soluzione. 
+---
+= Visualizza criteri e linee guida
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+:firstname: [.lead]
+:author: [.lead]
+:authorinitials: [
+:authors: [.lead]
+:revdate: The *Policies &amp; Guidelines* link opens the Policies and Guidelines page for the selected solution.
+
+
+La pagina Policy and Guidelines descrive tutte le informazioni e le linee guida attuali relative alla soluzione.
+
+
+
+== Fasi
+
+. Fare clic su *Policies & Guidelines* nella pagina *Playground*. Viene visualizzata la pagina *Criteri e linee guida*.
+. Consultare le ultime notizie, le linee guida, le informazioni sulle policy e il copyright della soluzione. Nella pagina *Playground*, è possibile modificare la soluzione per visualizzare altre politiche e linee guida specifiche.
+. Chiudere la pagina e tornare alla pagina *Playground*.
+

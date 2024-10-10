@@ -1,0 +1,38 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-categories.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: Puoi iscriverti a una o più categorie a tua scelta. 
+---
+= Iscriviti alle categorie
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Puoi iscriverti a una o più categorie a tua scelta.
+
+
+
+== A proposito di questa attività
+
+Riceverai una notifica e-mail quando i componenti vengono aggiunti o eliminati da una categoria.
+
+
+
+== Fasi
+
+. Fare clic sul collegamento *abbonamento* dal menu di intestazione.
+. Nella finestra di sottoscrizione, selezionare la scheda *Categoria*.
+. Per la categoria desiderata, selezionare la casella di controllo per l'opzione componenti aggiunti o eliminati.
+. Nel campo *frequenza*, selezionare *immediato* o *Digest*.
++
+
+NOTE: La selezione predefinita è *immediato*.
+
+. Fai clic su *Sottoscrivi* per ottenere gli abbonamenti per le categorie sottoscritte.
+
+
+
+NOTE: È possibile fare clic su *Reimposta* per cancellare tutte le selezioni nella scheda Categoria.

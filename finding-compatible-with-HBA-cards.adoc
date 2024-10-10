@@ -1,0 +1,43 @@
+---
+sidebar: sidebar 
+permalink: finding-compatible-with-hba-cards.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, compatible, hba, cards 
+summary: 'Puoi utilizzare l"Interoperability Matrix Tool per visualizzare il sistema operativo host supportato per una configurazione come la scheda Cisco UCS P81E su FCoE.' 
+---
+= Individuare la compatibilità con le schede HBA
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Con la funzione *ONTAP SAN host Simplified*, l'interfaccia utente viene semplificata e suddivisa in tre componenti; nelle versioni precedenti dell'interfaccia utente erano presenti tredici componenti. Gli altri dieci componenti sono supportati implicitamente da NetApp, a condizione che siano supportati dai rispettivi fornitori. *Note* e *Avvisi* sono classificati in base alle soluzioni e vengono aggiunti a ciascun risultato.
+
+I tre componenti supportati dallo strumento matrice di interoperabilità (IMT) sono il sistema operativo ONTAP, il sistema operativo host e il protocollo.
+
+Puoi utilizzare IMT per validare il supporto del sistema operativo host con ONTAP.
+
+Ad esempio, convalida il supporto per server blade Cisco Unified Computing System (Cisco UCS) con ONTAP utilizzando la seguente configurazione:
+
+*Esempio di configurazione server blade Cisco UCS*
+
+* So ONTAP: 9.13.1
+* Sistema operativo host: Red Hat Enterprise Linux 9,2
+* Modello server: Blade server Cisco UCS B200 M6
+* HBA (host bus adapter)
++
+** Modello: Cisco UCSB-MLOM-40G-04: Scheda di interfaccia virtuale Cisco UCS 1440
+** Versione driver: 1.6.0.53 fnic
+** Versione firmware: 5,3(2)
+
+
+* Firmware server UCS: 5,2(0)
+* Protocol (protocollo): FCoE
+
+
+*Convalidare la supportabilità dei blade server Cisco UCS*
+
+* Utilizzare la funzionalità *ONTAP SAN host semplificato* di IMT per verificare che i protocolli ONTAP 9.13,1, Red Hat Enterprise Linux 9,2 e FCoE siano elencati come configurazioni supportate.
+* I fornitori di HBA supportati da NetApp sono Broadcom, Marvell e Cisco. Cisco è incluso nell'elenco delle schede supportate, il che significa che è supportata anche la scheda di interfaccia virtuale Cisco (VIC).
+* Utilizzare l'elenco HCL (hardware Compatibility List) del vendor per verificare la compatibilità hardware e software UCS di Cisco. Come menzionato nell'elenco di configurazioni server precedente, verificare che il modello di adattatore HBA, la versione firmware del server UCS, il driver HBA e le versioni firmware siano supportati con Red Hat Enterprise Linux 9,2.
+

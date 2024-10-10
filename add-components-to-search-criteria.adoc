@@ -1,0 +1,45 @@
+---
+sidebar: sidebar 
+permalink: add-components-to-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: È possibile aggiungere componenti ai criteri di ricerca utilizzando la casella di testo Cerca o la Ricerca avanzata. 
+---
+= Aggiungere i componenti ai criteri di ricerca
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+È possibile aggiungere componenti ai criteri di ricerca utilizzando la casella di testo Cerca o la *Ricerca avanzata*.
+
+.A proposito di questa attività
+Se si conoscono i componenti da aggiungere ai criteri di ricerca, è possibile immettere i nomi dei componenti nella casella di testo di ricerca. È possibile utilizzare la *Ricerca avanzata* se non si è certi dei componenti da aggiungere ai criteri di ricerca.
+
+Per cancellare i componenti inclusi nei criteri di ricerca, fare clic su *Cancella tutto* nell'angolo in alto a destra.
+
+.Fasi
+. Nella home page di Interoperability Matrix Tool, immettere il nome del componente nella casella di testo di ricerca per visualizzare le possibili corrispondenze per il componente.
++
+.. Fare clic su *Aggiungi* per includere il componente nei criteri di ricerca.
+.. Fare clic su *Aggiungi* per includere i componenti di più categorie nei criteri di ricerca.
+.. Se si fa clic su *Mostra tutte le corrispondenze*, IMT visualizza la *Ricerca avanzata* che consente di includere più componenti nei criteri di ricerca.
+
+
+. Opzionale. È possibile includere un componente nei criteri di ricerca utilizzando *Ricerca avanzata*.
++
+.. Fare clic su *Ricerca avanzata*.
+.. Nella finestra *Ricerca avanzata*, selezionare una categoria o una soluzione dal riquadro di sinistra.
+.. Nel riquadro di destra, identificare il componente da aggiungere ai criteri di ricerca e fare clic su *Aggiungi*.
+.. Immettere le parole chiave nella finestra *Ricerca avanzata*.
+
+
+
+
+È possibile attivare le parole chiave come opzione di ricerca. Se attivata, è possibile cercare una o più righe utilizzando parole chiave associate a tali righe. È anche possibile utilizzare la casella di testo di ricerca all'interno della finestra *Ricerca avanzata* per cercare un componente specifico. Per rimuovere un componente aggiunto utilizzando *Ricerca avanzata*, fare clic su *Rimuovi* nel riquadro di destra.
+
+
+
+== Risultato
+
+Quando si includono i componenti ai criteri di ricerca, i componenti vengono visualizzati nel riquadro di destra in *Criteri di ricerca*.

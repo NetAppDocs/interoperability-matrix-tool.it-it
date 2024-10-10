@@ -1,0 +1,52 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-storage-solutions.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network 
+summary: Puoi iscriverti a una o più soluzioni di storage a tua scelta. 
+---
+= Iscriviti alle soluzioni storage
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Puoi iscriverti a una o più soluzioni di storage a tua scelta.
+
+
+
+== A proposito di questa attività
+
+I due tipi di abbonamento sono i seguenti:
+
+. *Immediato*: Riceverai immediatamente un'e-mail quando verranno apportate modifiche alla soluzione sottoscritta.
+. *Digest*: Riceverai un'e-mail accumulata entro sette giorni che riflette tutte le modifiche apportate alle soluzioni sottoscritte.
+
+
+
+
+== Fasi
+
+. Fare clic sul collegamento *abbonamento* dal menu di intestazione.
+. Nella finestra *sottoscrizione*, selezionare la scheda *soluzione di archiviazione*.
+. Per le soluzioni di archiviazione scelte, selezionare le caselle di controllo per le opzioni *aggiornamento stato soluzione, Categorie associate o disassociate o configurazioni aggiunte o eliminate*.
++
+Riceverai e-mail per le seguenti istanze:
+
++
+** Quando lo stato delle soluzioni viene modificato o aggiornato.
+** Quando alcune categorie vengono aggiunte o eliminate dalla soluzione
+** Quando alcune configurazioni vengono aggiunte o eliminate dalla soluzione
+
+
+. Nel campo *frequenza*, selezionare *immediato* o *Digest*.
++
+
+NOTE: La selezione predefinita è *immediato*.
+
+. Fare clic su *Sottoscrivi* per abbonarsi alle soluzioni selezionate.
++
+
+NOTE: È possibile fare clic su *Reimposta* per cancellare tutte le selezioni nella scheda *soluzione di archiviazione*.
+
+
